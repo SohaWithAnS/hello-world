@@ -1,4 +1,4 @@
 # hello-world
 
-Hello! My name is Soha :) I love eating, coding and sleeping! :)
+My name is Soha. This is my first GitHub repository.
 
